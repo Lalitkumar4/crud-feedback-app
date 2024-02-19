@@ -2,15 +2,20 @@
 
 This project was built with React. The user can add, delete, and update feedback. It makes use of mock REST api with json-server.
 
-### Technologies 📦
-- `ReactJS`
-- `Framer motion`
+## 📦 Technologies 
+- `React.js`
 - `json server`
-
-### Other dependencies 🛠️
+- `Framer motion`
+- `React icons`
 - `Concurrently`
 - `Prop types`
 - `uuid`
+
+## 🚀 Features
+- Add Feedback
+- Delete Feedback
+- Edit Feedback
+- Basic validation
 
 ## Usage
 
@@ -45,7 +50,7 @@ npm run build
 ```
 
 <details open>
-<summary><h3>Preview video 🎥</h3></summary>
+<summary><h2>📷 Preview video</h2></summary>
 <video src="https://github.com/Lalitkumar4/crud-feedback-app/assets/64465383/a3de666c-3aa3-4201-8985-d7eb212692b3" controls="controls" >
 </video>
 </details>
